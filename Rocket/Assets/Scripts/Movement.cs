@@ -7,6 +7,8 @@ public class Movement : MonoBehaviour
 
     Rigidbody rb;
     AudioSource audioSource;
+    bool isAlive;
+
     [SerializeField] float mainThrust = 100f;
     [SerializeField] float rotationThrust = 100f;
     [SerializeField] AudioClip mainEngine;
