@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/UserForm.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/ChemistryLab2.unity
+    guid: 20eee4da9ec75d349a1690969257eade
+  - enabled: 1
+    path: Assets/Scenes/Questionaire.unity
+    guid: 5ce0e0fdf15224d66a603ecde8461d97
+  - enabled: 1
+    path: Assets/Scenes/End.unity
+    guid: 0d0494b5a28404df2b381f999ac895c9
+  m_configObjects: {}
